@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align ="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 🌟 Pixel-Pushing coder by day, gaming hero by night!<br>👨‍💻 All of my projects are available at SahiDemon<br>📫 Reach me at gsahindu@gmail.com
 
 
