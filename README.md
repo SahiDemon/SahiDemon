@@ -1,6 +1,10 @@
 # 💫 About Me:
-<img align ="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-❤️ Powered By Coffee ❤️<br>📫 Reach me at gsahindu@gmail.com
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+❤️ Powered By Coffee ❤️<br>
+📫 Reach me at <a href="mailto:gsahindu@gmail.com">gsahindu@gmail.com</a><br>
+🌐 Portfolio: <a href="https://sahiya.me" target="_blank">sahiya.me</a>
+
+
 
 
 ## 🌐 Socials:
